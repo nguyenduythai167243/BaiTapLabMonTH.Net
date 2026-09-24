@@ -1,0 +1,16 @@
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\bin\Debug\net6.0-windows\Btaplab2.exe
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\bin\Debug\net6.0-windows\Btaplab2.deps.json
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\bin\Debug\net6.0-windows\Btaplab2.runtimeconfig.json
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\bin\Debug\net6.0-windows\Btaplab2.dll
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\bin\Debug\net6.0-windows\Btaplab2.pdb
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\obj\Debug\net6.0-windows\Btaplab2.Form1.resources
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\obj\Debug\net6.0-windows\Btaplab2.csproj.GenerateResource.cache
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\obj\Debug\net6.0-windows\Btaplab2.GeneratedMSBuildEditorConfig.editorconfig
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\obj\Debug\net6.0-windows\Btaplab2.AssemblyInfoInputs.cache
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\obj\Debug\net6.0-windows\Btaplab2.AssemblyInfo.cs
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\obj\Debug\net6.0-windows\Btaplab2.csproj.CoreCompileInputs.cache
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\obj\Debug\net6.0-windows\Btaplab2.dll
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\obj\Debug\net6.0-windows\refint\Btaplab2.dll
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\obj\Debug\net6.0-windows\Btaplab2.pdb
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\obj\Debug\net6.0-windows\Btaplab2.genruntimeconfig.cache
+d:\TH.NEt\Lab2\Btaplab2\Btaplab2\obj\Debug\net6.0-windows\ref\Btaplab2.dll
